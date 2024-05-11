@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MyIRTH</string>
+    <string name="son">Sons</string>
+    <string name="daughter">Daughters</string>
+    <string name="father">Father</string>
+    <string name="mother">Mother</string>
+    <string name="brother">Brothers</string>
+    <string name="sister">Sisters</string>
+    <string name="grandfather">Grandfather</string>
+    <string name="grandmother">Grandmother</string>
+    <string name="legacy">Legacy</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="text">Deceased \'s</string>
+    <string name="calcul">Calculate Resault</string>
+    <string name="lagacyhint">1000</string>
+    <string name="Oussama">Oussama Okbani</string>
+    <string name="Oumayma">Oumayma Essarhi</string>
+    <string name="Intro">\tThis report is a summary representing the progress of the work carried out as part of our end of year project at the Ben M’Sik College of Science, Mathematics and Computer Science Department, under the supervision of Pr. Khadija ACHTAICH.\n\n\tThe goal of the project is to develop a mobile application for calculating the inheritance, so that we can reduce the time and fix the problems that may be encountered when using the manual method.\n\n\tThis work depends on the rules of inheritance according to the Qur'an and Sunnah, which makes the calculation of inheritance accurate and free of errors.</string>
+</resources>
